@@ -1,5 +1,3 @@
- COMANDOS
- Todo material de apoio esta salvo no Notion!
 
 CREATE DATABASE ESCOLA;
 
